@@ -8,6 +8,7 @@ import Products from './Pages/Products';
 function App() {
   return (
     <>
+    {/* BrowserRouter */}
       <Router>
         <Nav/>
         <Switch>
